@@ -1,0 +1,14 @@
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.AssemblyInfoInputs.cache
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.AssemblyInfo.cs
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.csproj.CoreCompileInputs.cache
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\bin\Debug\net8.0\Завдання. Варіант 7.exe
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\bin\Debug\net8.0\Завдання. Варіант 7.deps.json
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\bin\Debug\net8.0\Завдання. Варіант 7.runtimeconfig.json
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\bin\Debug\net8.0\Завдання. Варіант 7.dll
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\bin\Debug\net8.0\Завдання. Варіант 7.pdb
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.dll
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\refint\Завдання. Варіант 7.dll
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.pdb
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\Завдання. Варіант 7.genruntimeconfig.cache
+D:\Directory\Завдання. Варіант 7\Завдання. Варіант 7\obj\Debug\net8.0\ref\Завдання. Варіант 7.dll

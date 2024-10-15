@@ -1,0 +1,14 @@
+D:\Directory\Приклад2\Приклад2\bin\Debug\net8.0\Приклад2.exe
+D:\Directory\Приклад2\Приклад2\bin\Debug\net8.0\Приклад2.deps.json
+D:\Directory\Приклад2\Приклад2\bin\Debug\net8.0\Приклад2.runtimeconfig.json
+D:\Directory\Приклад2\Приклад2\bin\Debug\net8.0\Приклад2.dll
+D:\Directory\Приклад2\Приклад2\bin\Debug\net8.0\Приклад2.pdb
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.AssemblyInfoInputs.cache
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.AssemblyInfo.cs
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.csproj.CoreCompileInputs.cache
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.dll
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\refint\Приклад2.dll
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.pdb
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\Приклад2.genruntimeconfig.cache
+D:\Directory\Приклад2\Приклад2\obj\Debug\net8.0\ref\Приклад2.dll
